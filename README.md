@@ -1,3 +1,5 @@
+
+[deepseek_html_20250918_0bf936 (1).html](https://github.com/user-attachments/files/22414702/deepseek_html_20250918_0bf936.1.html)
 <!DOCTYPE html>
 <html lang="tr">
 <head>
